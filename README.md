@@ -7,3 +7,5 @@ This project showcases a simple and responsive product card layout using Bootstr
 ✅ Add to Cart & Buy Now Buttons – Interactive shopping experience
 ✅ Easy to Customize – Just update images and text
 
+## 📸 Screenshot  
+(screenshot.png) 
