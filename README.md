@@ -8,4 +8,4 @@ This project showcases a simple and responsive product card layout using Bootstr
 ✅ Easy to Customize – Just update images and text
 
 ## 📸 Screenshot  
-(screenshot.png) 
+screenshot.png
